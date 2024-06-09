@@ -1,0 +1,15 @@
+// this is a comment
+(( )) {}
+!*+-/=<> <= == >= !=
+"this is a string"
+"this is a
+mutiple
+     -line
+string
+"
+3.1415 1919810 1145.14
+if else true false
+fun return
+and or
+class super extends nil print
+var const for loop while
